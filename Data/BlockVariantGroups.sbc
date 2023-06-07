@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlockVariantGroups>
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="WarningSignGroup" />
+            <Icon>Textures\GUI\Icons\Cubes\WarningSign_Large.dds</Icon>
+            <DisplayName>DisplayName_Block_WarningSign1</DisplayName>
+            <Description>Description_SignBlocks</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign1" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign2" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign3" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign4" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign5" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign6" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign7" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign10" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign12" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeWarningSign13" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign1" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign2" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign3" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign4" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign5" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign6" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign7" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign10" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign12" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallWarningSign13" />
+            </Blocks>
+        </BlockVariantGroup>
+    </BlockVariantGroups>
+</Definitions>
